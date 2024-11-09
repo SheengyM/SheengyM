@@ -24,4 +24,4 @@
 - He/Him
 
 ⚡ Fun fact:
-- I’m an international student majoring in Computer Science, and I love experimenting with new AI tools to solve real-world problems!
+- I’m a student majoring in Computer Science, and I love experimenting with new AI tools to solve real-world problems!
